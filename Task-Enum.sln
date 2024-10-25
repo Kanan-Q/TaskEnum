@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task-Enum", "Task-Enum\Task-Enum.csproj", "{18088EE9-59D3-4CCE-BE5A-28B584DDEA05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{EAA07134-32F4-49E3-904A-BFC44D37F6A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18088EE9-59D3-4CCE-BE5A-28B584DDEA05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18088EE9-59D3-4CCE-BE5A-28B584DDEA05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18088EE9-59D3-4CCE-BE5A-28B584DDEA05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18088EE9-59D3-4CCE-BE5A-28B584DDEA05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAA07134-32F4-49E3-904A-BFC44D37F6A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA07134-32F4-49E3-904A-BFC44D37F6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA07134-32F4-49E3-904A-BFC44D37F6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA07134-32F4-49E3-904A-BFC44D37F6A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64F0EC9E-949A-4C87-B537-49A1016C336E}
+	EndGlobalSection
+EndGlobal
